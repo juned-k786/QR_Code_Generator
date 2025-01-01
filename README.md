@@ -20,7 +20,7 @@ This is a simple QR Code Generator web application created using HTML, CSS, and 
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/mo-sahil/QR-Code-Generator.git
+   git clone https://github.com/juned-k786/QR_Code_Generator.git
 2. Open `index.html` in a web browser.
 3. Enter the text or URL you want to convert into a QR code in the input field.
 4. Click the "Generate QR Code" button or press the Enter key to generate the QR code.
